@@ -1,0 +1,12 @@
+processed_faces/
+datasets/
+torch_env/
+venv/
+__pycache__/
+*.jpg
+*.mp4
+*.avi
+*.pt
+*.h5
+Models/
+*.pth
