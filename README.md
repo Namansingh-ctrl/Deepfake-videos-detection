@@ -65,7 +65,7 @@ python app.py
 
 ## ⚠️ Note
 
-* Dataset and model files are not included due to size limitations.
+* Dataset and model files are not included due to size limitation
 * You can use your own dataset or download from public sources.
 
 ---
